@@ -1,0 +1,35 @@
+_repo: Propos-de-peintre-deuxieme-serie-Dates-Precede-d-une-Reponse-a-la-Preface-de-M-Marcel-Proust-__63129
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blanche, Jacques-Émile
+    alias: Blanche, Jacques-Emile
+    birthdate: 1861
+    deathdate: 1942
+    gutenberg_agent_id: '46567'
+    url: http://www.gutenberg.org/2009/agents/46567
+    wikipedia: https://fr.wikipedia.org/wiki/Jacques-%C3%89mile_Blanche
+description: ''
+gutenberg_issued: '2020-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63129'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Painters'
+- GITenberg
+tableOfContents: 'Dédicace et portrait liminaire -- Jean-Louis Forain -- Frédérick
+  Watts -- Les Dames de la Grande-Rue (Berthe Morisot) -- Décoration de la cathédrale
+  de Vich, par M. José Maria Sert -- Cent portraits de femmes -- Un week-end et Oscar
+  Wilde -- Un bilan artistique de la grande saison de Paris -- La Musique -- Autour
+  de Parsifal -- D''un carnet de voyage 1913 -- Appendice: Le Salon de la Société
+  Nationale des Beaux-Arts 1908. Notes sur le Salon d''Automne. Préface au Catalogue
+  d''une Exposition de peintres de Venise. Lettres de J.-E. Blanche, Gabriel Mourey
+  et Frantz Jourdain.'
+title: "Propos de peintre, deuxième série: Dates\r\nPrécédé d'une Réponse à la Préface\
+  \ de M. Marcel Proust au De David à Degas"
+url: http://www.gutenberg.org/ebooks/63129
